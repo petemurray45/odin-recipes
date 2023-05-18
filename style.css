@@ -1,0 +1,39 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+}
+
+.Lintro,
+.pieintro,
+.ratintro {
+    margin: 60px;
+}
+
+
+
+.lasagneimg,
+.pieimg,
+.ratimg {
+   display: flex;
+   justify-content: center;
+}
+
+#inglist {
+    text-align: center;
+}
+
+.title,
+.links,
+.ingredients {
+    text-align: center;
+}
+
+.steps {
+    text-align: left;
+}
+
+
+img {
+    text-align: center;
+    border-radius: 8px;
+}
